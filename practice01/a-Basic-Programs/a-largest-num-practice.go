@@ -5,7 +5,7 @@ import ( "fmt"
 
 func main (){
 
-	fmt.Println("Enter first Number:")
+	fmt.Println("Enter first Number")
 	var first int
 	fmt.Scanf("%d" ,&first)
 	fmt.Println("Enter second  Number:")

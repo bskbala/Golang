@@ -5,7 +5,8 @@ import (
 	"reflect"
 )
 
-func main() {
+func main() 
+{
 
 	var f32 float32 = 10.6556
 	fmt.Println(reflect.TypeOf(f32))

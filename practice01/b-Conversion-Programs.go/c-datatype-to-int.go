@@ -5,7 +5,8 @@ import (
 	"reflect"
 )
 
-func main() {
+func main() 
+{
 	var i int =10
 
 	fmt.Println(reflect.TypeOf(i))
