@@ -33,7 +33,7 @@ func main() {
 		j float32
 		k float64
 	)
-	fmt.Println("j:", j)
-	fmt.Println("k:", k)
+	fmt.Println("j=", j)
+	fmt.Println("k=", k)
 
 }
