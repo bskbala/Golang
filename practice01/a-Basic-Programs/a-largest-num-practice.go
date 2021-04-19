@@ -7,7 +7,7 @@ func main (){
 
 	fmt.Println("Enter first Number")
 	var first int
-	fmt.Scanf("%d" ,&first)
+	fmt.Scanln(&first)
 	fmt.Println("Enter second  Number:")
 	var second int
 	fmt.Scanf("%d" ,&second)
