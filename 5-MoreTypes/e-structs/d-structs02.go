@@ -19,7 +19,7 @@ func  main () {
 		lastName:"kumar",
 	}
 
-	// Creaating struct with out specifying Fields names
+	// Creating struct with out specifying Fields names
 
 	emp2 := Employee{"randura","apparao",25,599}
 
